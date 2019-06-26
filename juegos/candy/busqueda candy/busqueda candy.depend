@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1515764384 source:c:\users\pepe-portatil\desktop\busqueda candy\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1515946229 source:a:\datos\escritorio\busqueda candy\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+

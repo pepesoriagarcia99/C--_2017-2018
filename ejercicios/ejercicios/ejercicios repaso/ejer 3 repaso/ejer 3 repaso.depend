@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513674023 source:c:\users\pepe-portatil\desktop\ejercicios repaso\ejer 3 repaso\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
